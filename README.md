@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Matheus Kodi, 19y - brazillian and currently a System Analysis and Development student on UTFPR, Cornélio Procópio/Paraná.
 - 👀 I’m interested in work as young apprentice
 - 🌱 I’m currently learning JavaScript, HTML/CSS, Node and C.
-- 👌 I'm currently working on Unect Jr. as Treinee Designer.
-- 💞️ I’m looking to collaborate on ...
+- 👌 I'm currently working on Unect Jr. as Designer.
 - 📫 How to reach me - matheuskodi2@gmail.com
 
 <!---
