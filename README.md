@@ -31,6 +31,13 @@
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
+## ☀️ Contato
+<div> 
+  <a href="https://www.instagram.com/_kodi.y/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:matheuskodi2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-kodi-y-b341a9234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 ## 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathkodi&show_icons=true&locale=en&layout=compact" alt="mathkodi" /></p>
