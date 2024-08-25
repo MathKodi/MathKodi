@@ -6,6 +6,7 @@
 
 ## Habilidades 🌻
  - ✨ Experiência em desenvolvimento web front-end e design ui/ux
+ - 🚀 Linguagens e ferramentas
 <div style="display: inline_block">
   <img align="center" alt="Kodi-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Kodi-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -17,13 +18,18 @@
   <img align="center" alt="Kodi-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Kodi-mySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Kodi-mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <br><br>
+</div> <br>
+
+ - ☁️ Design
+<div style="display: inline_block">
   <img align="center" alt="Kodi-canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
   <img align="center" alt="Kodi-figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div> <br>
 
-  - 💻 IDE <br> 
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+ - 💻 IDE
+<div style="display: inline_block"><br> 
+ <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</div>
 
 ## 
 
