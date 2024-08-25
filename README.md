@@ -27,7 +27,7 @@
 </div> <br>
 
  - 💻 IDE
-<div style="display: inline_block"><br> 
+<div style="display: inline_block">
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
