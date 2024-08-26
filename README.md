@@ -1,5 +1,5 @@
 # Bem Vindo! Meu nome é Kodi 🌙
-<p><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFhNHZ3M2dmZHloMDl1cWhuOXhmdmQ4djQ5Y251YW54bjAyOHBvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.webp" width="800"></p>
+<p><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBvZTJyeTZkZXp5bThlNTAzbDhha2Jub29pOHJwaDR1b29waDR0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14v8A3AX3A8lu8/giphy.webp" width="800"></p>
 
 ## Sobre mim 🌊
  - 🌌 Estudante de Análise e Desenvolvimento de Sistemas na [UTFPR](https://www.utfpr.edu.br/)
