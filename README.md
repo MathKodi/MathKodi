@@ -1,4 +1,6 @@
 # Bem Vindo! Meu nome é Kodi 🌙
+<p><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFhNHZ3M2dmZHloMDl1cWhuOXhmdmQ4djQ5Y251YW54bjAyOHBvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.webp" width="800"></p>
+
 ## Sobre mim 🌊
  - 🌌 Estudante de Análise e Desenvolvimento de Sistemas na [UTFPR](https://www.utfpr.edu.br/)
  - ☄️ Em procura da primeira vaga na área **dev**
@@ -43,3 +45,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathkodi&show_icons=true&locale=en&layout=compact" alt="mathkodi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathkodi&show_icons=true&locale=en" alt="mathkodi" /></p>
+
+
