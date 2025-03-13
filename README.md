@@ -2,7 +2,7 @@
 <p><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBvZTJyeTZkZXp5bThlNTAzbDhha2Jub29pOHJwaDR1b29waDR0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14v8A3AX3A8lu8/giphy.webp" width="800"></p>
 
 ## Sobre mim 🌊
- - 🌱<a href="[https://www.instagram.com/_kodi.y/](https://matheus-kodi.vercel.app/)" target="_blank"> meu site pessoal!!! </a>
+ - 🌱<a href="https://matheus-kodi.vercel.app/" target="_blank"> meu site pessoal!!! </a>
  - 🌌 Estudante de Análise e Desenvolvimento de Sistemas na [UTFPR](https://www.utfpr.edu.br/)
  - ☄️ Em procura da primeira vaga na área **dev**
  - ⭐ Atualmente trabalhando na Unect Jr. como assessor de Design
