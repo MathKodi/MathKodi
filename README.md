@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CD35C9&width=435&lines=Bem+Vindo!+Meu+Nome+%C3%A9+Kodi+%F0%9F%8C%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=24&pause=1000&color=1DF76A&background=FFD0FC00&width=435&lines=Welcome!+I'm+Kodi+%F0%9F%8C%99)](https://git.io/typing-svg)
 <p><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBvZTJyeTZkZXp5bThlNTAzbDhha2Jub29pOHJwaDR1b29waDR0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14v8A3AX3A8lu8/giphy.webp" width="800"></p>
 
 ## Sobre mim 🌊
